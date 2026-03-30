@@ -1,1 +1,2 @@
 # Webpage
+cambiar el directorio segun corresponda de las imagenes
